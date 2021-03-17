@@ -1,0 +1,48 @@
+mediumMaze.lay with random foods
+
+manhattanDistance: 
+Node expanded: 762
+Score: 274
+
+euclideanHeuristic:
+Node expanded: 772
+Score: 272
+
+canberraHeuristic: (best)
+Node expanded: 637
+Score: 372 (1st)
+
+chebyshevHeuristic:
+Node expanded: 551 (1st)
+Score: 284
+
+
+
+bigMaze.lay with random foods
+
+manhattanDistance: 
+Node expanded: 1433
+Score: 178
+
+euclideanHeuristic: (best)
+Node expanded: 1295 (1st)
+Score: 202
+
+canberraHeuristic:
+Node expanded: 1971
+Score: 198
+
+chebyshevHeuristic:
+Node expanded: 1404
+Score: 202
+
+
+References:
+https://en.wikipedia.org/wiki/Euclidean_distance
+https://vi.wikipedia.org/wiki/Kho%E1%BA%A3ng_c%C3%A1ch_Manhattan
+https://en.wikipedia.org/wiki/Minkowski_distance
+https://en.wikipedia.org/wiki/Canberra_distance
+https://en.wikipedia.org/wiki/Chebyshev_distance
+https://en.wikipedia.org/wiki/Distance
+https://machinelearningmastery.com/distance-measures-for-machine-learning/
+https://github.com/Deus1223/Pac-Man
